@@ -5,5 +5,5 @@ Professor:
   Ales Sandro da Cunha Rêgo
 
 Equipe:
-  Glaucio Alves Medeiros
+  Glaucio Alves Medeiros \n
   Renato Ribeiro da Silva
